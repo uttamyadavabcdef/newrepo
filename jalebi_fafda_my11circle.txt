@@ -1,0 +1,20 @@
+{
+Facebook_Banner: "YOUR_PLACEMENT_ID",
+Facebook_Int: "YOUR_PLACEMENT_ID",
+Facebook_Native_Ad: "YOUR_PLACEMENT_ID",
+Facebook_Native_Banner: "YOUR_PLACEMENT_ID",
+flag: "2",
+IronSource_ID: "",
+livescore_flag: "1",
+ADMob_Int: "",
+Admob_Banner: "",
+Admob_Native: "",
+Open_Ad: "",
+App_Remove_flag: "1",
+Play_Store_New_Url: "https://play.google.com/store/apps/details?id=com.thoptvguid.thoptvguidking2",
+qureka_link: "http://910.win.qureka.com",
+qureka_Visible: "2",
+Ipl_web_page_load: "1",
+ipl_schedule_url: "https://www.google.com/search?q=ipl+live+schedual&oq=ipl+live+schedual&aqs=chrome..69i57j0i13l3j0i13i30l3j0i8i13i30l3.6295j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11fqtnjjg0;5;/m/03b_lm1;mt;fp;1;;",
+not_showAnyAd_above_show_blow_admob_fb_banner: "1"
+}
