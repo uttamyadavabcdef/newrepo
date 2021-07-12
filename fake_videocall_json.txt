@@ -211,6 +211,6 @@ video: "https://anand1280.github.io/Fake-Vieo-Zip/fake_72.mp4"
 },
 {
 video: "https://anand1280.github.io/Fake-Vieo-Zip/fake_73.mp4"
-},
-],
+}
+]
 }
