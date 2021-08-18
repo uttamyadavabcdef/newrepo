@@ -376,10 +376,5 @@
 "title":"game",
 "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a94.jpg"
 }
-{
-"title":"game",
-"image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a910.jpg"
-},
-
 ]
 }
