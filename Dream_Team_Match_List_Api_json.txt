@@ -40,8 +40,8 @@
 	  "Weather_Report" : "Weather will be rainy",
 	  "Team_1_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
 	  "Team_2_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
-	  "Image_1" : "",
-	  "Image_2" : ""
+	  "Image_1" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_1.jpg",
+	  "Image_2" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_2.jpg"
     },
   ]
 }
