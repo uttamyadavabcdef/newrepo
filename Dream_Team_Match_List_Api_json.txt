@@ -22,6 +22,8 @@
 	  "Team_2_Lineup_Text" : "",
 	  "Pitch_Report" : "",
 	  "Weather_Report" : "",
+	  "Team_1_text_2" : "",
+	  "Team_2_text_2" : "",
 	  "Image_1" : "",
 	  "Image_2" : ""
     },
