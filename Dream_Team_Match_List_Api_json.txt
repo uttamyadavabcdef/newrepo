@@ -20,6 +20,8 @@
 	  "Team_2_text_1" : "",
 	  "Team_1_Lineup_Text" : "",
 	  "Team_2_Lineup_Text" : "",
+	  "Pitch_Report" : "",
+	  "Weather_Report" : "",
 	  "Image_1" : "",
 	  "Image_2" : ""
     },
