@@ -1,0 +1,474 @@
+{
+        "data": [
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a1.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=357&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a2.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a3.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/t/table-tennis-world-tour/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8c8e5fc6-7e38-47ab-96eb-150276e79ef8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=356&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a4.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a5.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/0/3d-free-kick/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2ee096ab-4cd7-4f9a-baa9-f58a54413c47&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=361&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a6.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a7.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/d/diamond-rush/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=395b0746-6d0e-4ec8-b11c-18cab8009214&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=363&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a8.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a9.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/a/archery-world-tour/v460/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ebcb987a-3fd0-4b4a-bae6-f456fff9cac3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=357&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a10.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a11.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/0/8-ball-billiards-classic/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=358&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a12.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a13.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a14.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=597&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a15.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a16.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/t/tower-crash-3d/v290/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=68a7c06e-ec27-4fa4-99a5-a5e9702ac4ef&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=601&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a17.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a18.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/e/element-blocks/v160/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8c70b6c7-5792-4c40-b891-496eef2fb5ed&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=600&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a19.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a20.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=603&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a21.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a22.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/g/gold-mine/v200/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b358f423-2ad1-4f9b-b81f-6118ee9778a9&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=604&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a23.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a24.jpg",
+                "Url" : "https://www.topgames.com/play/Jail-Breaker"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a25.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a26.jpg",
+                "Url" : "https://www.topgames.com/play/Shortcut-Run"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a27.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a28.jpg",
+                "Url" : "https://www.topgames.com/play/Epic-Race-3d"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a29.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a30.jpg",
+                "Url" : "https://www.topgames.com/play/Halloween-Magic-Tiles"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a31.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a32.jpg",
+                "Url" : "https://www.topgames.com/play/Light-It-Up-Online"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a33.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a34.jpg",
+                "Url" : "https://www.topgames.com/play/Block-City-Wars"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a35.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a36.jpg",
+                "Url" : "https://www.google.com/logos/2010/pacman10-i.html"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a37.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a38.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/b/bubble-woods/v290/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=53159388-d515-45e5-b65a-56d21c595405&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=690&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a39.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a40.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/c/cannon-balls-3d/v150/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=3ffa11c2-61da-4974-892b-473582253371&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=685&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a41.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a42.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/c/color-shape/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f7ee9f85-5427-408c-9c29-1f997f129b81&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=692&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a43.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a44.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=690&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a45.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a46.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/0/3d-chess/v180/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e9306bb-99cc-4762-9708-a34d8afa6ae1&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=692&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a47.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a48.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=743&original_ref=https%3A%2F%2Fwww.google.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a49.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a50.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=747&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a51.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a52.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/d/dont-crash/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9320bd31-c1fa-4dda-9a89-6e3946399a84&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=552&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a53.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a54.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/r/racing-cars/v670/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ba418425-068d-4b12-9a35-21d9db2572f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=747&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a55.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a56.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/t/truck-trials/v500/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e56b8aaa-86e9-4d9f-9ea1-3822a3021716&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=746&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a57.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a58.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/r/race-right/v230/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2c1acec8-38bc-4c30-86f2-843c0d1f6dca&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=747&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a59.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a60.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/b/brain-trainer/v430/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d267b353-ff18-4745-89f6-c390716a4f25&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=541&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a61.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a62.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/f/find-in-mind/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8820fb9b-f0da-4277-b989-2f47810a1462&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=541&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a63.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a64.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/w/word-detector/v390/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fa994966-a4d2-4aa5-98b1-5b9f138b1edd&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=542&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a65.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a66.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/w/word-search-classic/v320/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b47a1c8a-8f40-4d93-825f-e96652354ded&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=541&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a67.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a68.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/j/jigsaw-puzzle-deluxe/v300/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=50bb00b6-7151-4279-90c9-5b202e6ba691&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=548&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a69.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a70.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/0/123-puzzle/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=859e7036-2740-47b3-9e9d-2aeb90853a4c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=542&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a71.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a72.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a73.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/d/duo-cards/v230/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a049631f-a44c-4486-8042-0a1170b154d5&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=532&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a74.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a75.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a76.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/g/gin-rummy-plus/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=4f0b6ea7-7801-41a2-9117-53aae9295173&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=533&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a77.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a78.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/c/crossover-21/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=569b9d43-61ca-454c-af87-f6cc6f935c44&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=552&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a79.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a80.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a81.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a82.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a83.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a84.jpg",
+                "Url" : "https://games.cdn.famobi.com/html5games/s/solitaire-classic-easter/v260/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e8017ad4-a36f-4a13-83d7-11071c69cb6c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=534&original_ref=https%3A%2F%2Fgames.famobi.com%2F"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a85.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a86.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a87.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a88.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a89.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a90.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a91.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a92.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a93.jpg",
+                "Url" : "http://893.win.qureka.com"
+        },
+        {
+            "title":"game",
+                "image":"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/a94.jpg",
+                "Url" : "http://893.win.qureka.com"
+        }
+]
+    }
