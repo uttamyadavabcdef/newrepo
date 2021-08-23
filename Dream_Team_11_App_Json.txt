@@ -22,5 +22,6 @@ Ipl_web_page_load: "1",
 "Admob_Ad_Timer":"15",
 "Admob_Ad_Timer_plus_one" : "16",
 ipl_schedule_url: "https://www.google.com/search?q=ipl+live+schedual&oq=ipl+live+schedual&aqs=chrome..69i57j0i13l3j0i13i30l3j0i8i13i30l3.6295j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11fqtnjjg0;5;/m/03b_lm1;mt;fp;1;;",
-not_showAnyAd_above_show_blow_admob_fb_banner: "2"
+not_showAnyAd_above_show_blow_admob_fb_banner: "2",
+"back_all" : "2"
 }	
