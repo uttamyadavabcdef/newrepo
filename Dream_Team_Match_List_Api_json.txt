@@ -1,211 +1,102 @@
-  {
+   {
   "status_code": 200,
 
   "data": [
     {
       "Leage_name" : "IPL 2021",
-      "team1":"MI",
-      "team1_image":"https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png",
       "team1":"CSK",
-      "team2_image":"https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg",
+      "team1_image":"https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg",
+      "team1":"MI",
+      "team2_image":"https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png",
       "file_name":"mi_vs_csk",
-      "team2":"CSK",
-	  "date" : "20 Aug 2021",
+      "team2":"MI",
+	  "date" : "Sun. 19 Sep 2021",
 	  "time" : "8 PM",
-	  "Venue" : "England",
+	  "Venue" : "Dubai",
 	  "Who_play" : "Probable Playing Xi",
-	  "Team_1_Player_List" : "Ajith Kumar A, S Ananth Gharat, N Manik Salekar, N Thennavan(C), S Parameeswaran, A Kamleeshwaran, Satish Jangir B, S Rajaram, K Vignesh, P Murugan, P S Faris,",
-	  "Team_2_Player_List" : "Logesh P, Shivamurugan M, A Subramanian, G Chirangjeevi, G Thivagar, M Mittan, Jerish A, TA Abeesh, S Sabri, Raghu Sharma, A Jain S",
-	  "Team_1_text_1" : "- Lions XI lost the last match against Tiger XI by 4 runs.
-- Lions XI were given a target of 179 runs to win but they scored only 174 runs while chasing.
-- Nitish Manik Salekar was top scorer for Lions XI in last match with scored 47 runs.
-- A Kamleeshwarn (27), Anant Gharat (22) and Satish B (22) also batted good in last match.
-- In bowling, K Vignesh picked three while S Rajaram got a couple of wicket in this game.
--P Murugan and S Parameeshwarn also got one wicket each.",
-	  "Team_2_text_1" : "- Sharks XI also lost their last match against the Tigers XI by 5 wickets.
-- They scored 150/8 against the Tigers XI in last match.
-- Shivamurugan M played a brilliant 50 runs innings off 51 balls. Except him, Logesh P (21) and M Mittan (17) also batted something good in last game.
-- In bowling, T A Abeesh picked two while Raghu Sharma and S Sabri picked one wicket each.",
-	  "Team_1_Lineup_Text" : "- Ajith Kummar A and S Ananth Gharat will open the batting. Ananth Gharat scored vital 22 runs in last match. Ajith Kumar A failed in last match with scored only 5 runs.
-- N Manik Salekar will bat at one down. Decent batsman. Scored brilliant 47 runs in last match.
-- Skipper N Thennavan and N Parameeshwaran will be next two batsmen. Both are decent batsmen. Scored 23 and 19 runs respectively in last match.
-- S Kamleeshwarn and S Jangir B will look to finish the innings. S Kamleeshwar is a good attacker of ball. Scored 27 runs in last match. S Jangir B is a good all rounder. Scored 22 off just 9 balls in last match. Can bowl also very nicely.
--K Vignesh, S Rajaram, P Murugan, Stish B, N Manik Salekar and S Parmeeshwarn will lead the bowling attack of Lions. K Vignesh and S Rajaram will be main two bowlers for them.",
-	  "Team_2_Lineup_Text" : "- Logesh P and Shivamurugan M will open the batting. Both are good batsmen. Logesh P scored 21 while Shivamurugan M played a beautiful inning of 50 runs in last match.
-- A Subramanian and G Cheerangjeevi will be next two batsmen at No 03 and 04 respectively. Both are decent batsmen but got out very cheaply in last match with scored 06 & 05 runs respectively.
-- G Thivagar and Mohit Mittan will handle the middle order at No 05 & 06. Mittan scored 17 runs in last match.
-- Jerish A will follow in batting. Good lower order batsmen. Scored 12 off 7 balls in last match.
-- T Abeesh, M Mittan, S Sabri, G Chirangjeevi, Raghu Sharma and G Thivagar will lead the bowling attack of Sharks XI. TA Abeesh picked two wickets in last match.",
-	  "Pitch_Report" : "Pitch is a neutral surface with some assistance for spinners. Death over specialist will also play crucial role at the end.",
-	  "Weather_Report" : "Weather will be rainy",
-	  "Team_1_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
-	  "Team_2_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
+	  "Team_1_Player_List" : "Logesh P, Shivamurugan M, A Subramanian, G Chirangjeevi, G Thivagar, M Mittan, Jerish A, TA Abeesh, S Sabri, Raghu Sharma, A Jain S",
+	  "Team_2_Player_List" : "Ajith Kumar A, S Ananth Gharat, N Manik Salekar, N Thennavan(C), S Parameeswaran, A Kamleeshwaran, Satish Jangir B, S Rajaram, K Vignesh, P Murugan, P S Faris,",
+	  "Team_1_text_1" : "- Sharks XI also lost their last match against the Tigers XI by 5 wickets.
+      - They scored 150/8 against the Tigers XI in last match.
+      - Shivamurugan M played a brilliant 50 runs innings off 51 balls. Except him, Logesh P (21) and M Mittan (17) also batted something good in last game.
+      - In bowling, T A Abeesh picked two while Raghu Sharma and S Sabri picked one wicket each.",
+	  "Team_2_text_1" : "- Lions XI lost the last match against Tiger XI by 4 runs.
+      - Lions XI were given a target of 179 runs to win but they scored only 174 runs while chasing.
+      - Nitish Manik Salekar was top scorer for Lions XI in last match with scored 47 runs.
+      - A Kamleeshwarn (27), Anant Gharat (22) and Satish B (22) also batted good in last match.
+      - In bowling, K Vignesh picked three while S Rajaram got a couple of wicket in this game.
+      -P Murugan and S Parameeshwarn also got one wicket each.",
+	  "Team_1_Lineup_Text" : "- Logesh P and Shivamurugan M will open the batting. Both are good batsmen. Logesh P scored 21 while Shivamurugan M played a beautiful inning of 50 runs in last match.
+      - A Subramanian and G Cheerangjeevi will be next two batsmen at No 03 and 04 respectively. Both are decent batsmen but got out very cheaply in last match with scored 06 & 05 runs respectively.
+      - G Thivagar and Mohit Mittan will handle the middle order at No 05 & 06. Mittan scored 17 runs in last match.
+      - Jerish A will follow in batting. Good lower order batsmen. Scored 12 off 7 balls in last match.
+      - T Abeesh, M Mittan, S Sabri, G Chirangjeevi, Raghu Sharma and G Thivagar will lead the bowling attack of Sharks XI. TA Abeesh picked two wickets in last match.",
+            "Pitch_Report" : "Pitch is a neutral surface with some assistance for spinners. Death over specialist will also play crucial role at the end.",
+            "Weather_Report" : "Weather will be rainy",
+	  "Team_2_Lineup_Text" : "- Ajith Kummar A and S Ananth Gharat will open the batting. Ananth Gharat scored vital 22 runs in last match. Ajith Kumar A failed in last match with scored only 5 runs.
+      - N Manik Salekar will bat at one down. Decent batsman. Scored brilliant 47 runs in last match.
+      - Skipper N Thennavan and N Parameeshwaran will be next two batsmen. Both are decent batsmen. Scored 23 and 19 runs respectively in last match.
+      - S Kamleeshwarn and S Jangir B will look to finish the innings. S Kamleeshwar is a good attacker of ball. Scored 27 runs in last match. S Jangir B is a good all rounder. Scored 22 off just 9 balls in last match. Can bowl also very nicely.
+      -K Vignesh, S Rajaram, P Murugan, Stish B, N Manik Salekar and S Parmeeshwarn will lead the bowling attack of Lions. K Vignesh and S Rajaram will be main two bowlers for them.",
+	  "Team_1_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
+	  "Team_2_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
 	  "Image_1" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_1.jpg",
 	  "Image_2" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_2.jpg"
     },
     {
       "Leage_name" : "IPL 2021",
-      "team1":"MI",
-      "team1_image":"https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png",
-      "team1":"CSK",
-      "team2_image":"https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg",
+      "team1":"KKR",
+      "team1_image":"https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
+      "team1":"RCB",
+      "team2_image":"https://cdn.freelogovectors.net/wp-content/uploads/2018/08/Royal-Challengers-Bangalore-logo.png",
       "file_name":"mi_vs_csk",
-      "team2":"CSK",
-	  "date" : "20 Aug 2021",
+      "team2":"RCB",
+	  "date" : "20 Sep 2021",
 	  "time" : "8 PM",
-	  "Venue" : "England",
+	  "Venue" : "Dubai",
 	  "Who_play" : "Probable Playing Xi",
-	  "Team_1_Player_List" : "Ajith Kumar A, S Ananth Gharat, N Manik Salekar, N Thennavan(C), S Parameeswaran, A Kamleeshwaran, Satish Jangir B, S Rajaram, K Vignesh, P Murugan, P S Faris,",
-	  "Team_2_Player_List" : "Logesh P, Shivamurugan M, A Subramanian, G Chirangjeevi, G Thivagar, M Mittan, Jerish A, TA Abeesh, S Sabri, Raghu Sharma, A Jain S",
-	  "Team_1_text_1" : "- Lions XI lost the last match against Tiger XI by 4 runs.
-- Lions XI were given a target of 179 runs to win but they scored only 174 runs while chasing.
-- Nitish Manik Salekar was top scorer for Lions XI in last match with scored 47 runs.
-- A Kamleeshwarn (27), Anant Gharat (22) and Satish B (22) also batted good in last match.
-- In bowling, K Vignesh picked three while S Rajaram got a couple of wicket in this game.
--P Murugan and S Parameeshwarn also got one wicket each.",
-	  "Team_2_text_1" : "- Sharks XI also lost their last match against the Tigers XI by 5 wickets.
-- They scored 150/8 against the Tigers XI in last match.
-- Shivamurugan M played a brilliant 50 runs innings off 51 balls. Except him, Logesh P (21) and M Mittan (17) also batted something good in last game.
-- In bowling, T A Abeesh picked two while Raghu Sharma and S Sabri picked one wicket each.",
+	  "Team_1_Player_List" : "Eoin Morgan, Nitish Rana, Prasidh Krishna, Sandeep Warrier, Shivam Mavi, Kamlesh Nagarkoti, Lockie Ferguson, Pat Cummins, Kuldeep Yadav, Varun Chakravarthy, Sunil Narine, Andre Russell, Dinesh Karthik, Rinku Singh, Rahul Tripathi, Tim Seifert, Shubman Gill, Pawan Negi, Venkatesh Iyer, Ben Cutting, Harbhajan Singh, Karun Nair, Vaibhav Arora, Sheldon Jackson, Shakib Al Hasan",
+	  "Team_2_Player_List" : "Virat Kohli (c), Devdutt Padikkal, Finn Allen (wk), AB de Villiers (wk), Pavan Deshpande, Washington Sundar, Daniel Sams, Yuzvendra Chahal, Adam Zampa, Shahbaz Ahmed, Mohammed Siraj, Navdeep Saini, Kane Richardson, Harshal Patel, Glenn Maxwell, Sachin Baby, Rajat Patidar, Mohammed Azharuddeen, Kyle Jamieson, Daniel Christian, Suyash Prabhudessai, K.S. Bharat",
+	  "Team_1_text_1" : "IPL KKR Team 2021 Players List:  Kolkata Knight Riders’s biggest buy of the IPL 2021 auction was Bangladesh all-rounder Shakib Al Hasan. The veteran has been a part of the side before and can be a valuable addition in the middle order and the spin-bowling department. (IPL 2021 Full Schedule)      ",
+	  "Team_2_text_1" : "IPL RCB Team 2021 Players List: Royal Challengers Bangalore (RCB) will be one of the teams to have a new look in this IPL season, with some big names having been released. (IPL 2021 Full Schedule)",
 	  "Team_1_Lineup_Text" : "- Ajith Kummar A and S Ananth Gharat will open the batting. Ananth Gharat scored vital 22 runs in last match. Ajith Kumar A failed in last match with scored only 5 runs.
 - N Manik Salekar will bat at one down. Decent batsman. Scored brilliant 47 runs in last match.
 - Skipper N Thennavan and N Parameeshwaran will be next two batsmen. Both are decent batsmen. Scored 23 and 19 runs respectively in last match.
 - S Kamleeshwarn and S Jangir B will look to finish the innings. S Kamleeshwar is a good attacker of ball. Scored 27 runs in last match. S Jangir B is a good all rounder. Scored 22 off just 9 balls in last match. Can bowl also very nicely.
 -K Vignesh, S Rajaram, P Murugan, Stish B, N Manik Salekar and S Parmeeshwarn will lead the bowling attack of Lions. K Vignesh and S Rajaram will be main two bowlers for them.",
-	  "Team_2_Lineup_Text" : "- Logesh P and Shivamurugan M will open the batting. Both are good batsmen. Logesh P scored 21 while Shivamurugan M played a beautiful inning of 50 runs in last match.
-- A Subramanian and G Cheerangjeevi will be next two batsmen at No 03 and 04 respectively. Both are decent batsmen but got out very cheaply in last match with scored 06 & 05 runs respectively.
-- G Thivagar and Mohit Mittan will handle the middle order at No 05 & 06. Mittan scored 17 runs in last match.
-- Jerish A will follow in batting. Good lower order batsmen. Scored 12 off 7 balls in last match.
-- T Abeesh, M Mittan, S Sabri, G Chirangjeevi, Raghu Sharma and G Thivagar will lead the bowling attack of Sharks XI. TA Abeesh picked two wickets in last match.",
+	  "Team_2_Lineup_Text" : "Australia limited-overs captain Aaron Finch, who was RCB’s senior opening batsman in IPL 2020, is one of the big names to have been released.",
 	  "Pitch_Report" : "Pitch is a neutral surface with some assistance for spinners. Death over specialist will also play crucial role at the end.",
 	  "Weather_Report" : "Weather will be rainy",
-	  "Team_1_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
-	  "Team_2_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
+	  "Team_1_text_2" : "Eoin Morgan, Nitish Rana, Prasidh Krishna, Sandeep Warrier, Shivam Mavi, Kamlesh Nagarkoti, Lockie Ferguson, Pat Cummins, Kuldeep Yadav, Varun Chakravarthy, Sunil Narine, Andre Russell, Dinesh Karthik, Rinku Singh, Rahul Tripathi, Tim Seifert, Shubman Gill, Pawan Negi, Venkatesh Iyer, Ben Cutting, Harbhajan Singh, Karun Nair, Vaibhav Arora, Sheldon Jackson, Shakib Al Hasan",
+	  "Team_2_text_2" : "Virat Kohli (c), Devdutt Padikkal, Finn Allen (wk), AB de Villiers (wk), Pavan Deshpande, Washington Sundar, Daniel Sams, Yuzvendra Chahal, Adam Zampa, Shahbaz Ahmed, Mohammed Siraj, Navdeep Saini, Kane Richardson, Harshal Patel, Glenn Maxwell, Sachin Baby, Rajat Patidar, Mohammed Azharuddeen, Kyle Jamieson, Daniel Christian, Suyash Prabhudessai, K.S. Bharat",
 	  "Image_1" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_1.jpg",
 	  "Image_2" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_2.jpg"
     },
     {
       "Leage_name" : "IPL 2021",
-      "team1":"MI",
-      "team1_image":"https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png",
-      "team1":"CSK",
-      "team2_image":"https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg",
+      "team1":"PBKS",
+      "team1_image":"https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Punjab_Kings_logo_2021.png/200px-Punjab_Kings_logo_2021.png",
+      "team1":"RR",
+      "team2_image":"http://t2.gstatic.com/images?q=tbn:ANd9GcQYtQSG7Ry_I9YX81lxHSvp8KBbu0_FEZ5pAIHOnwnytYPynrUc",
       "file_name":"mi_vs_csk",
-      "team2":"CSK",
-	  "date" : "20 Aug 2021",
+      "team2":"RR",
+	  "date" : "21 Sep 2021",
 	  "time" : "8 PM",
-	  "Venue" : "England",
+	  "Venue" : "Abu Dhabhi",
 	  "Who_play" : "Probable Playing Xi",
-	  "Team_1_Player_List" : "Ajith Kumar A, S Ananth Gharat, N Manik Salekar, N Thennavan(C), S Parameeswaran, A Kamleeshwaran, Satish Jangir B, S Rajaram, K Vignesh, P Murugan, P S Faris,",
-	  "Team_2_Player_List" : "Logesh P, Shivamurugan M, A Subramanian, G Chirangjeevi, G Thivagar, M Mittan, Jerish A, TA Abeesh, S Sabri, Raghu Sharma, A Jain S",
-	  "Team_1_text_1" : "- Lions XI lost the last match against Tiger XI by 4 runs.
-- Lions XI were given a target of 179 runs to win but they scored only 174 runs while chasing.
-- Nitish Manik Salekar was top scorer for Lions XI in last match with scored 47 runs.
-- A Kamleeshwarn (27), Anant Gharat (22) and Satish B (22) also batted good in last match.
-- In bowling, K Vignesh picked three while S Rajaram got a couple of wicket in this game.
--P Murugan and S Parameeshwarn also got one wicket each.",
-	  "Team_2_text_1" : "- Sharks XI also lost their last match against the Tigers XI by 5 wickets.
-- They scored 150/8 against the Tigers XI in last match.
-- Shivamurugan M played a brilliant 50 runs innings off 51 balls. Except him, Logesh P (21) and M Mittan (17) also batted something good in last game.
-- In bowling, T A Abeesh picked two while Raghu Sharma and S Sabri picked one wicket each.",
-	  "Team_1_Lineup_Text" : "- Ajith Kummar A and S Ananth Gharat will open the batting. Ananth Gharat scored vital 22 runs in last match. Ajith Kumar A failed in last match with scored only 5 runs.
-- N Manik Salekar will bat at one down. Decent batsman. Scored brilliant 47 runs in last match.
-- Skipper N Thennavan and N Parameeshwaran will be next two batsmen. Both are decent batsmen. Scored 23 and 19 runs respectively in last match.
-- S Kamleeshwarn and S Jangir B will look to finish the innings. S Kamleeshwar is a good attacker of ball. Scored 27 runs in last match. S Jangir B is a good all rounder. Scored 22 off just 9 balls in last match. Can bowl also very nicely.
--K Vignesh, S Rajaram, P Murugan, Stish B, N Manik Salekar and S Parmeeshwarn will lead the bowling attack of Lions. K Vignesh and S Rajaram will be main two bowlers for them.",
-	  "Team_2_Lineup_Text" : "- Logesh P and Shivamurugan M will open the batting. Both are good batsmen. Logesh P scored 21 while Shivamurugan M played a beautiful inning of 50 runs in last match.
-- A Subramanian and G Cheerangjeevi will be next two batsmen at No 03 and 04 respectively. Both are decent batsmen but got out very cheaply in last match with scored 06 & 05 runs respectively.
-- G Thivagar and Mohit Mittan will handle the middle order at No 05 & 06. Mittan scored 17 runs in last match.
-- Jerish A will follow in batting. Good lower order batsmen. Scored 12 off 7 balls in last match.
-- T Abeesh, M Mittan, S Sabri, G Chirangjeevi, Raghu Sharma and G Thivagar will lead the bowling attack of Sharks XI. TA Abeesh picked two wickets in last match.",
+	  "Team_1_Player_List" : "Aiden MarkramChris GayleMandeep SinghMayank AgarwalSarfaraz KhanShahrukh KhanDeepak HoodaFabian AllenHarpreet BrarJalaj SaxenaMoises HenriquesNathan EllisUtkarsh SinghKL RahulNicholas PooranPrabhsimran SinghAdil RashidArshdeep SinghChris JordanDarshan NalkandeIshan PorelMohammed ShamiMurugan AshwinRavi BishnoiSaurabh Kumar",
+	  "Team_2_Player_List" : "Sanju Samson, Ben Stokes, Jofra Archer, Jos Buttler, Riyan Parag, Shreyas Gopal, Rahul Tewatia, Mahipal Lomror, Kartik Tyagi, Andrew Tye, Jaydev Unadkat, Mayank Markande, Yashasvi Jaiswal, Anuj Rawat, David Miller, Manan Vohra, Robin Uthappa      ",
+	  "Team_1_text_1" : "The KL Rahul-led side did well in the first half of the season, but fizzled out in the second and eventually missed the bus to the play-offs. Having made some interesting buys in this year's auction, the Mohali-based franchise, who have renamed themselves as Punjab Kings, would be eyeing consistent performance this year. Here is the team information about Punjab Kings",
+	  "Team_2_text_1" : "Rajasthan is the one team whom no one can really single out. The inaugural champions introduced big changes to their squad during the trading season and later during the auction. Under new captain Sanju Samson, Rajasthan will be hoping for a better show this season, especially after having broken the bank for South African all-rounder Chris Morris. Here is the team information about RR",
+	  "Team_1_Lineup_Text" : "The Punjab franchise is still looking for their first title win. The franchise went all out in IPL 2021 auction to bolster their fast-bowling unit as they bid aggressively for Australian fast bowlers Jhye Richardson and Riley Meredith.",
+	  "Team_2_Lineup_Text" : "IPL RR Team 2021 Players List: Rajasthan Royals stole the headlines in the IPL 2021 auction on Thursday after buying South African all-rounder Chris Morris for a record Rs 16.25 crore. (IPL 2021 Full Schedule)",
 	  "Pitch_Report" : "Pitch is a neutral surface with some assistance for spinners. Death over specialist will also play crucial role at the end.",
 	  "Weather_Report" : "Weather will be rainy",
-	  "Team_1_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
-	  "Team_2_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
-	  "Image_1" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_1.jpg",
-	  "Image_2" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_2.jpg"
-    },
-    {
-      "Leage_name" : "IPL 2021",
-      "team1":"MI",
-      "team1_image":"https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png",
-      "team1":"CSK",
-      "team2_image":"https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg",
-      "file_name":"mi_vs_csk",
-      "team2":"CSK",
-	  "date" : "20 Aug 2021",
-	  "time" : "8 PM",
-	  "Venue" : "England",
-	  "Who_play" : "Probable Playing Xi",
-	  "Team_1_Player_List" : "Ajith Kumar A, S Ananth Gharat, N Manik Salekar, N Thennavan(C), S Parameeswaran, A Kamleeshwaran, Satish Jangir B, S Rajaram, K Vignesh, P Murugan, P S Faris,",
-	  "Team_2_Player_List" : "Logesh P, Shivamurugan M, A Subramanian, G Chirangjeevi, G Thivagar, M Mittan, Jerish A, TA Abeesh, S Sabri, Raghu Sharma, A Jain S",
-	  "Team_1_text_1" : "- Lions XI lost the last match against Tiger XI by 4 runs.
-- Lions XI were given a target of 179 runs to win but they scored only 174 runs while chasing.
-- Nitish Manik Salekar was top scorer for Lions XI in last match with scored 47 runs.
-- A Kamleeshwarn (27), Anant Gharat (22) and Satish B (22) also batted good in last match.
-- In bowling, K Vignesh picked three while S Rajaram got a couple of wicket in this game.
--P Murugan and S Parameeshwarn also got one wicket each.",
-	  "Team_2_text_1" : "- Sharks XI also lost their last match against the Tigers XI by 5 wickets.
-- They scored 150/8 against the Tigers XI in last match.
-- Shivamurugan M played a brilliant 50 runs innings off 51 balls. Except him, Logesh P (21) and M Mittan (17) also batted something good in last game.
-- In bowling, T A Abeesh picked two while Raghu Sharma and S Sabri picked one wicket each.",
-	  "Team_1_Lineup_Text" : "- Ajith Kummar A and S Ananth Gharat will open the batting. Ananth Gharat scored vital 22 runs in last match. Ajith Kumar A failed in last match with scored only 5 runs.
-- N Manik Salekar will bat at one down. Decent batsman. Scored brilliant 47 runs in last match.
-- Skipper N Thennavan and N Parameeshwaran will be next two batsmen. Both are decent batsmen. Scored 23 and 19 runs respectively in last match.
-- S Kamleeshwarn and S Jangir B will look to finish the innings. S Kamleeshwar is a good attacker of ball. Scored 27 runs in last match. S Jangir B is a good all rounder. Scored 22 off just 9 balls in last match. Can bowl also very nicely.
--K Vignesh, S Rajaram, P Murugan, Stish B, N Manik Salekar and S Parmeeshwarn will lead the bowling attack of Lions. K Vignesh and S Rajaram will be main two bowlers for them.",
-	  "Team_2_Lineup_Text" : "- Logesh P and Shivamurugan M will open the batting. Both are good batsmen. Logesh P scored 21 while Shivamurugan M played a beautiful inning of 50 runs in last match.
-- A Subramanian and G Cheerangjeevi will be next two batsmen at No 03 and 04 respectively. Both are decent batsmen but got out very cheaply in last match with scored 06 & 05 runs respectively.
-- G Thivagar and Mohit Mittan will handle the middle order at No 05 & 06. Mittan scored 17 runs in last match.
-- Jerish A will follow in batting. Good lower order batsmen. Scored 12 off 7 balls in last match.
-- T Abeesh, M Mittan, S Sabri, G Chirangjeevi, Raghu Sharma and G Thivagar will lead the bowling attack of Sharks XI. TA Abeesh picked two wickets in last match.",
-	  "Pitch_Report" : "Pitch is a neutral surface with some assistance for spinners. Death over specialist will also play crucial role at the end.",
-	  "Weather_Report" : "Weather will be rainy",
-	  "Team_1_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
-	  "Team_2_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
-	  "Image_1" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_1.jpg",
-	  "Image_2" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_2.jpg"
-    },
-    {
-      "Leage_name" : "IPL 2021",
-      "team1":"MI",
-      "team1_image":"https://i.pinimg.com/originals/28/09/a8/2809a841bb08827603ccac5c6aee8b33.png",
-      "team1":"CSK",
-      "team2_image":"https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg",
-      "file_name":"mi_vs_csk",
-      "team2":"CSK",
-	  "date" : "20 Aug 2021",
-	  "time" : "8 PM",
-	  "Venue" : "England",
-	  "Who_play" : "Probable Playing Xi",
-	  "Team_1_Player_List" : "Ajith Kumar A, S Ananth Gharat, N Manik Salekar, N Thennavan(C), S Parameeswaran, A Kamleeshwaran, Satish Jangir B, S Rajaram, K Vignesh, P Murugan, P S Faris,",
-	  "Team_2_Player_List" : "Logesh P, Shivamurugan M, A Subramanian, G Chirangjeevi, G Thivagar, M Mittan, Jerish A, TA Abeesh, S Sabri, Raghu Sharma, A Jain S",
-	  "Team_1_text_1" : "- Lions XI lost the last match against Tiger XI by 4 runs.
-- Lions XI were given a target of 179 runs to win but they scored only 174 runs while chasing.
-- Nitish Manik Salekar was top scorer for Lions XI in last match with scored 47 runs.
-- A Kamleeshwarn (27), Anant Gharat (22) and Satish B (22) also batted good in last match.
-- In bowling, K Vignesh picked three while S Rajaram got a couple of wicket in this game.
--P Murugan and S Parameeshwarn also got one wicket each.",
-	  "Team_2_text_1" : "- Sharks XI also lost their last match against the Tigers XI by 5 wickets.
-- They scored 150/8 against the Tigers XI in last match.
-- Shivamurugan M played a brilliant 50 runs innings off 51 balls. Except him, Logesh P (21) and M Mittan (17) also batted something good in last game.
-- In bowling, T A Abeesh picked two while Raghu Sharma and S Sabri picked one wicket each.",
-	  "Team_1_Lineup_Text" : "- Ajith Kummar A and S Ananth Gharat will open the batting. Ananth Gharat scored vital 22 runs in last match. Ajith Kumar A failed in last match with scored only 5 runs.
-- N Manik Salekar will bat at one down. Decent batsman. Scored brilliant 47 runs in last match.
-- Skipper N Thennavan and N Parameeshwaran will be next two batsmen. Both are decent batsmen. Scored 23 and 19 runs respectively in last match.
-- S Kamleeshwarn and S Jangir B will look to finish the innings. S Kamleeshwar is a good attacker of ball. Scored 27 runs in last match. S Jangir B is a good all rounder. Scored 22 off just 9 balls in last match. Can bowl also very nicely.
--K Vignesh, S Rajaram, P Murugan, Stish B, N Manik Salekar and S Parmeeshwarn will lead the bowling attack of Lions. K Vignesh and S Rajaram will be main two bowlers for them.",
-	  "Team_2_Lineup_Text" : "- Logesh P and Shivamurugan M will open the batting. Both are good batsmen. Logesh P scored 21 while Shivamurugan M played a beautiful inning of 50 runs in last match.
-- A Subramanian and G Cheerangjeevi will be next two batsmen at No 03 and 04 respectively. Both are decent batsmen but got out very cheaply in last match with scored 06 & 05 runs respectively.
-- G Thivagar and Mohit Mittan will handle the middle order at No 05 & 06. Mittan scored 17 runs in last match.
-- Jerish A will follow in batting. Good lower order batsmen. Scored 12 off 7 balls in last match.
-- T Abeesh, M Mittan, S Sabri, G Chirangjeevi, Raghu Sharma and G Thivagar will lead the bowling attack of Sharks XI. TA Abeesh picked two wickets in last match.",
-	  "Pitch_Report" : "Pitch is a neutral surface with some assistance for spinners. Death over specialist will also play crucial role at the end.",
-	  "Weather_Report" : "Weather will be rainy",
-	  "Team_1_text_2" : "Kannan Vignesh, Parameeswaran S, Ajithkumar A, Shreeraj Anant Gharat, Thennavan N, Magadevan Mathan, Murugan P, Rajaram S, Santhamoorthy S, Kamaleeshwaran A, Nitish Salekar, SatishJangir B, Baskaran Surendar, Shri Sivagunal S, Ayyanar R, MuhammedSalmanul Faris",
-	  "Team_2_text_2" : "Jerish A, Sabari S, Vijith A, Vishal Khokhar, Logesh P, Mohit Mittan, Sivamurugan M, Thivagar G, Palanisamy P, Premraj Rajavel, Abeesh TA, Akshay Jain S, Raghu Sharma, Chiranjeevi G, Anand Subramanian, Nipun Gaikwad",
+	  "Team_1_text_2" : "Aiden MarkramChris GayleMandeep SinghMayank AgarwalSarfaraz KhanShahrukh KhanDeepak HoodaFabian AllenHarpreet BrarJalaj SaxenaMoises HenriquesNathan EllisUtkarsh SinghKL RahulNicholas PooranPrabhsimran SinghAdil RashidArshdeep SinghChris JordanDarshan NalkandeIshan PorelMohammed ShamiMurugan AshwinRavi BishnoiSaurabh Kumar",
+	  "Team_2_text_2" : "Sanju Samson, Ben Stokes, Jofra Archer, Jos Buttler, Riyan Parag, Shreyas Gopal, Rahul Tewatia, Mahipal Lomror, Kartik Tyagi, Andrew Tye, Jaydev Unadkat, Mayank Markande, Yashasvi Jaiswal, Anuj Rawat, David Miller, Manan Vohra, Robin Uthappa",
 	  "Image_1" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_1.jpg",
 	  "Image_2" : "https://uttamyadavabcdef.github.io/Dream_11_images/d_11_i_2.jpg"
     }
+    
   ]
 }
