@@ -29,5 +29,5 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "Second_Banner_Link" : "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
 "Populer_Link" : "https://jolly-wozniak-864293.netlify.app/Winzo_Populer_Json.txt",
 "btn_2_Link" : "https://jolly-wozniak-864293.netlify.app/Winzo_Populer_Json.txt",
-"privacy" : "https://www.google.com/"
+"privacy" : "https://pankhopankho.blogspot.com/2021/11/privacy-policy.html"
 }	
