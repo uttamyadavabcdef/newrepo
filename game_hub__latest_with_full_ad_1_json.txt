@@ -17,7 +17,7 @@ Open_Ad: "/22405025169,22625071025/com.winzogames.winzogoldfreefirediamond.AppOp
 App_Remove_flag: "1",
 Play_Store_New_Url: "https://play.google.com/store/apps/details?id=com.photocollagepic.muglifesanjayforuser",
 qureka_link: "http://893.win.qureka.com",
-qureka_Visible: "2",
+qureka_Visible: "1",
 Ipl_web_page_load: "1",
 "Admob_Ad_Timer":"15",
 "Admob_Ad_Timer_plus_one" : "16",
