@@ -1,7 +1,7 @@
 {
-Facebook_Banner: "YOUR_PLACEMENT_ID",
-Facebook_Int: "YOUR_PLACEMENT_ID",
-Facebook_Native_Ad: "YOUR_PLACEMENT_ID",
+Facebook_Banner: "",
+Facebook_Int: "",
+Facebook_Native_Ad: "",
 Facebook_Native_Banner: "YOUR_PLACEMENT_ID",
 "Facebook_Reward_Ad":"YOUR_PLACEMENT_ID",
 flag: "1",
