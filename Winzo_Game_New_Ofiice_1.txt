@@ -33,5 +33,6 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "AppLovin_Int": "",
 "AppLovin_Banner": "",
 "AppLovin_Reward": "",
-"AppLovin_Native": ""
+"AppLovin_Native": "",
+"AppLovin_approve" "2"
 }
