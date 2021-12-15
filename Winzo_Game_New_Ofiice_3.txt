@@ -30,10 +30,10 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "Populer_Link" : "https://jolly-wozniak-864293.netlify.app/Winzo_Populer_Json.txt",
 "btn_2_Link" : "https://jolly-wozniak-864293.netlify.app/Winzo_Populer_Json.txt",
 "privacy" : "https://pankhopankho.blogspot.com/2021/11/privacy-policy.html",
-"AppLovin_Int": "",
+"AppLovin_Int": "af440c5fc50a4715",
 "AppLovin_Banner": "",
 "AppLovin_Reward": "",
 "AppLovin_Native": "",
-"AppLovin_approve" : "2",
+"AppLovin_approve" : "1",
 "Applovin_Flag" : "2"
 }
