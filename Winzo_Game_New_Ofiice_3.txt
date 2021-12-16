@@ -34,6 +34,6 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "AppLovin_Banner": "d54f77ffa5fffa18",
 "AppLovin_Reward": "dfc50111961abfa5",
 "AppLovin_Native": "95d48ece37cc9340",
-"AppLovin_approve" : "2",
-"Applovin_Flag" : "2"
+"AppLovin_approve" : "1",
+"Applovin_Flag" : "1"
 }
