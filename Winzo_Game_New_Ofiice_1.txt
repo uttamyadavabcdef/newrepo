@@ -35,7 +35,7 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "AppLovin_Int": "1be0e231c86f63b5",
 "AppLovin_Banner": "2cd19124e3232b63",
 "AppLovin_Reward": "",
-"AppLovin_Native": "",
+"AppLovin_Native": "892e1595d0f7b47c",
 "AppLovin_approve" : "1",
 "Applovin_Flag" : "1",
 "Select_Language" : "https://jolly-wozniak-864293.netlify.app/Select_Language_Json.txt"
