@@ -43,5 +43,6 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "CropDocumentActivity" : "1",
 "MainActivity" : "1",
 "ScannerActivity" : "1",
+"AdmobAd" : "1",
 "Select_Language" : "https://jolly-wozniak-864293.netlify.app/Select_Language_Json.txt"
 }
