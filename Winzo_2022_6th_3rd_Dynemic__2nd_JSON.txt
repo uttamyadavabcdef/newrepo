@@ -16,7 +16,7 @@ Open_Ad: "/22405025169,22625071025/com.winzogames.winzogoldfreefirediamond.AppOp
 "Admob_Reward_Ad":"",
 App_Remove_flag: "1",
 Play_Store_New_Url: "https://play.google.com/store/apps/details?id=com.photocollagepic.muglifesanjayforuser",
-qureka_link: "",
+qureka_link: "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=442&original_ref=https%3A%2F%2Fhtml5games.com%2F",
 qureka_Visible: "2",
 Ipl_web_page_load: "1",
 "Admob_Ad_Timer":"15",
