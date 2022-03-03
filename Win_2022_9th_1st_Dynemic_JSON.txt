@@ -38,5 +38,5 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "AppLovin_approve" : "1",
 "Applovin_Flag" : "1",
 "Select_Language" : "https://jolly-wozniak-864293.netlify.app/Select_Language_Json.txt",
-"qureka_Visible" : "1"
+"qureka_Visible" : "2"
 }
