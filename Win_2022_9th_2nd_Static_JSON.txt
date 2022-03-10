@@ -35,9 +35,9 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "AppLovin_Banner": "5bd1377ec7c1a102",
 "AppLovin_Reward": "5f42e84cb97e16be",
 "AppLovin_Native": "2d48555d5881fdd7",
-"AppLovin_approve" : "1",
-"Applovin_Flag" : "1",
+"AppLovin_approve" : "2",
+"Applovin_Flag" : "2",
 "Select_Language" : "https://jolly-wozniak-864293.netlify.app/Select_Language_Json.txt" ,
 "qureka_Visible": "2",
-"qureka_Visible_Back" : "1"
+"qureka_Visible_Back" : "2"
 }
