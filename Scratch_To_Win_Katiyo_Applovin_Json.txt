@@ -42,5 +42,6 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "qureka_Visible" : "2",
 "qureka_Visible_Back" : "2",
 "Scratch_Card_Count" :"200",
-"Minimum_Reward" : "50000"
+"Minimum_Reward" : "50000",
+"Money_TXT": "100 Points = 10 INR"
 }
