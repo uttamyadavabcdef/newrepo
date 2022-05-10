@@ -44,7 +44,7 @@ flag: "2",
 "Flag_3" : "1",
 "Flag_4" : "1",
 "Flag_5" : "1",
-"Flag_6" : "1",
+"Flag_6" : "2",
 "Flag_7" : "1",
 "qureka_Visible_Back" : "2"
 }
