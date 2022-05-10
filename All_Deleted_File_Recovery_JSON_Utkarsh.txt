@@ -39,5 +39,12 @@ flag: "2",
 "Applovin_Flag" : "2",
 "Select_Language" : "https://jolly-wozniak-864293.netlify.app/Select_Language_Json.txt",
 "qureka_Visible" : "2",
+"Flag_1" : "1",
+"Flag_2" : "1",
+"Flag_3" : "1",
+"Flag_4" : "1",
+"Flag_5" : "1",
+"Flag_6" : "1",
+"Flag_7" : "1",
 "qureka_Visible_Back" : "2"
 }
