@@ -46,5 +46,12 @@ flag: "1",
 "Flag_5" : "2",
 "Flag_6" : "2",
 "Flag_7" : "2",
+"ADX_Flag_1" : "2",
+"ADX_Flag_2" : "2",
+"ADX_Flag_3" : "2",
+"ADX_Flag_4" : "2",
+"ADX_Flag_5" : "2",
+"ADX_Flag_6" : "2",
+"ADX_Flag_7" : "2",
 "qureka_Visible_Back" : "2"
 }
