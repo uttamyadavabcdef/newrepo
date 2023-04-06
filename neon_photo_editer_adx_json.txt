@@ -74,7 +74,11 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "MyCollectionActivity_Falg" :"1",
 "Random_All" :"3",
 "Random_number" :"2",
-"Random_or_count_click_flag" : "1"
+"Random_or_count_click_flag" : "1",
+"VpnLink" : "https://d1ex46a0eaqlz9.cloudfront.net",
+"VpnId" : "touchvpn",
+"ConnectVPnCountryList" : "us,ca",
+"VPN_ON_OFF" : "1"
 
 
 }
