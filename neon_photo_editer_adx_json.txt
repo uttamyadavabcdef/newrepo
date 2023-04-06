@@ -79,7 +79,7 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "VpnId" : "touchvpn",
 "ConnectVPnCountryList" : "us,ca",
 "VPN_ON_OFF" : "1",
-"VPN_OFF_COUNTRY" : "in"
+"VPN_OFF_COUNTRY" : "aa"
 
 
 }
