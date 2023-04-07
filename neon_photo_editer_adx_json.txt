@@ -77,7 +77,7 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "Random_or_count_click_flag" : "1",
 "VpnLink" : "https://d1ex46a0eaqlz9.cloudfront.net",
 "VpnId" : "touchvpn",
-"ConnectVPnCountryList" : "au,at,be,ca,dk,fi,fr,de,ie,it,lu,nl,nz,no,es,se,ch,gb,us",
+"ConnectVPnCountryList" : "ca,dk,us,ir",
 "VPN_ON_OFF" : "1",
 "VPN_OFF_COUNTRY" : "aa"
 
