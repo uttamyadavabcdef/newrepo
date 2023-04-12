@@ -72,6 +72,12 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "ColorSplashActivity_Flag" : "1",
 "ShareActivity_Falg" :"1",
 "MyCollectionActivity_Falg" :"1",
+
+"Get_Started_1_Activity_Falg" :"1",
+
+"Get_Started_2_Activity_Falg" :"1",
+
+"StartActivity_Falg" :"1",
 "Random_All" :"3",
 "Random_number" :"2",
 "Random_or_count_click_flag" : "1",
