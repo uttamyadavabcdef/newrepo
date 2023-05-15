@@ -1,5 +1,5 @@
 {
- [
+"JSONARRAY" : [
   {
     "name": "anime",
     "flag": "111"
