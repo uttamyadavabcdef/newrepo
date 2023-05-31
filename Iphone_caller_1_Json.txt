@@ -9,7 +9,7 @@
 "Native_Ad_Flag":"1",
 "IronSource_ID": "",
 "livescore_flag": "2",
-"Applovin_int": "",
+"Applovin_int": "b8bd2626ea7cab8f",
 "ADMob_Int": "ca-app-pub-3940256099942544/1033173712",
 "Admob_Banner": "ca-app-pub-3940256099942544/6300978111",
 "Admob_Native": "ca-app-pub-3940256099942544/2247696110",
