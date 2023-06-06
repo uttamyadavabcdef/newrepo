@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "data": {
+    "fb_native_id": "1028535594680305_1029215194612345",
+    "fb_inter_id": "",
+    "fb_banner_id": "",
+    "google_native_id": "",
+    "google_inter_id": "",
+    "google_banner_id": "",
+    "applovin_open_id": "e59d89136444d44a",
+    "applovin_inter_id": "6e3cfc43981ac10c",
+    "applovin_mrec_id": "399533f1516e477d",
+    "applovin_banner_id": "b46bceb093b5f65c",
+    "addStatusCode": "1",
+    "adsclicklimit": "3",
+    "qureka_visible": "2",
+    "qureka_url": "http://483.set.qureka.com",
+    "addLimit": "3"
+  }
+}
