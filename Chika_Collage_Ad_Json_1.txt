@@ -74,5 +74,12 @@
 "VpnId" : "touchvpn",
 "ConnectVPnCountryList" : "ca,ir",
 "VPN_ON_OFF" : "2",
-"VPN_OFF_COUNTRY" : "aa"
+"VPN_OFF_COUNTRY" : "aa",
+"home_flag_applovin_admob_Int" : "1",
+"edit_flag_applovin_admob_Int" : "1",
+"share_flag_applovin_admob_Int" : "1",
+"setting_flag_applovin_admob_Int" : "1",
+"home_flag_applovin_admob_Native" : "1",
+"share_flag_applovin_admob_Native" : "1",
+"setting_flag_applovin_admob_Native" : "1"
 }
